@@ -1,3 +1,2 @@
-New git file for branchone after third.txt added
-
-***********************************************
+First Git File
+changes added after master pushed to github
